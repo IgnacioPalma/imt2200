@@ -9,3 +9,6 @@ Acá está disponible el material del curso tanto para las clases como para las 
 ## Update 2023-08-09
 - Actualización del material para la Clase 02.
 - Incorporación del material para la Actividad 01.
+
+---
+License: [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
