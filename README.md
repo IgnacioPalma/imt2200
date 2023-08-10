@@ -1,5 +1,7 @@
-# IMT2200 Introducción a la Ciencia de Datos - GitHub :octocat:
-## Profesor: Rodrigo A. Carrasco
+# IMT2200 Introducción a la Ciencia de Datos
+Repositorio en GitHub del Curso :octocat:
+
+### Profesor: Rodrigo A. Carrasco
 
 Repositorio del curso IMT2200 Introducción a la Ciencia de Datos. 
 Acá está disponible el material del curso tanto para las clases como para las tareas o trabajos a desarrollar durante el semestre.
