@@ -6,6 +6,9 @@
 Repositorio del curso IMT2200 Introducción a la Ciencia de Datos. 
 Acá está disponible el material del curso tanto para las clases como para las tareas o trabajos a desarrollar durante el semestre.
 
+## Update 2023-08-11
+- Actualización de la Actividad 01 agregando en notebook ejecutado en clases.
+
 ## Update 2023-08-09
 - Actualización del material para la Clase 02.
 - Incorporación del material para la Actividad 01.
